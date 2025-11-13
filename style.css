@@ -413,7 +413,7 @@ footer .boom{
         width: 100vw;
     }
     .head{
-        padding: 0 7vw;
+        padding: 0 6vw;
     }
     .heed ul{
         flex-direction: row;
@@ -468,7 +468,7 @@ footer .boom{
     .ones{
         flex-direction: row;
         margin: 0;
-        padding: 0 7vw;
+        padding: 0 6vw;
         text-align: start;
     }
     .twos{
@@ -477,7 +477,7 @@ footer .boom{
         width: 100vw;
     }
     .three{
-        padding: 0 7vw;
+        padding: 0 6vw;
         margin: 0;
         max-width: 100vw;
         flex-direction: column-reverse;
@@ -493,7 +493,7 @@ footer .boom{
     .four .container{
         flex-direction: column;
         margin: 0;
-        padding: 0 7vw;
+        padding: 0 6vw;
         justify-content: flex-start;
     }
     .foor{
@@ -517,7 +517,7 @@ footer .boom{
     }
     .star{
         width: 100vw;
-        padding: 0 7vw;
+        padding: 0 6vw;
         max-width: 75rem;
         margin: auto;
     }
@@ -525,6 +525,6 @@ footer .boom{
         width: 90vw;
     }
     .last{
-        padding: 0 7vw;
+        padding: 0 6vw;
     }
 }
